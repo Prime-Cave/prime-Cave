@@ -8,7 +8,7 @@
   <a href="https://www.instagram.com/ak_tomisin/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://www.sotwe.com/Ak_Tomisin?lang=en">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
