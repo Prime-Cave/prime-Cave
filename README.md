@@ -27,14 +27,10 @@ I'm on the lookout for exciting collaborations and projects that align with my p
 
 Ready to embark on a coding adventure or just want to chat tech? Feel free to reach out—collaboration awaits! 🚀
 
-[LinkedIn](Your LinkedIn Profile Link) | [Twitter](Your Twitter Profile Link) | [Portfolio](Your Portfolio Link)
-
-Let's code the future together! 🌈✨
+Let's code the future together! 🦾✨
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXl4cXo0emFtcHdsZ3p0aWFkNWt5bmhsNHhlMTIwOW9odWp5aG5tMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-
-  <div id="badges">
+   <div id="badges">
   <a href="https://www.linkedin.com/in/tomisin-akinfemiwa/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -45,4 +41,5 @@ Let's code the future together! 🌈✨
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXl4cXo0emFtcHdsZ3p0aWFkNWt5bmhsNHhlMTIwOW9odWp5aG5tMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
