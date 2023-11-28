@@ -15,9 +15,9 @@ But the journey doesn't end there! I've set my sights on the exciting realm of M
 🌟 Why Collaborate with Me?
 
 
-* **Proven Track Record: **Demonstrated success in the dynamic landscapes of marketing and advertising.
-* **Versatility: **Whether it's shaping databases, architecting backend solutions, or diving into the intricacies of machine learning, I bring versatility to the table.
-* **Innovative Spirit**: I believe in pushing boundaries, exploring the unknown, and transforming challenges into opportunities.
+* **Proven Track Record:** Demonstrated success in the dynamic landscapes of marketing and advertising.
+* **Versatility:** Whether it's shaping databases, architecting backend solutions, or diving into the intricacies of machine learning, I bring versatility to the table.
+* **Innovative Spirit:** I believe in pushing boundaries, exploring the unknown, and transforming challenges into opportunities.
 
 **🔍 What's Next?**
 
