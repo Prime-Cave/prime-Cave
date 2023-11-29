@@ -10,9 +10,9 @@ Venturing into the exciting world of Machine Learning, I aim to infuse intellige
 
 **🌟 Why Collaborate with Me?**
 
-✅ Proven Track Record: Successful endeavors in dynamic marketing and advertising landscapes.
-✅ Versatility: From shaping databases to architecting backend solutions and delving into machine learning intricacies, I bring versatility to the table.
-✅ Innovative Spirit: Committed to pushing boundaries, exploring the unknown, and turning challenges into opportunities.
+**✅ Proven Track Record:** Successful endeavors in dynamic marketing and advertising landscapes.\
+**✅ Versatility:** From shaping databases to architecting backend solutions and delving into machine learning intricacies, I bring versatility to the table.\
+**✅ Innovative Spirit:** Committed to pushing boundaries, exploring the unknown, and turning challenges into opportunities.
 
 **🔍 What's Next?**
 
