@@ -9,6 +9,7 @@ var **whoAmI** = `I'm a Software Engineer passionate about building impactful di
 **ACES** = **JAVASCRIPT(TYPESCRIPT), GOLANG, PYTHON**
 
 💡 Expertise:
+
 	•	Database Management, OOP, and API Development.
 
 	•	Proficient in Node.js, Vue.js, Express.js, etc.
@@ -16,6 +17,7 @@ var **whoAmI** = `I'm a Software Engineer passionate about building impactful di
 	•	Exploring Machine Learning to craft intelligent systems.
 
 🌟 Why Work with Me?
+
 	•	Proven success in marketing and tech projects.
  
 	•	Versatile: Backend, databases, and ML.
