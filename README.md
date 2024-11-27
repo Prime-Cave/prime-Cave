@@ -1,10 +1,12 @@
-# 🚀 Welcome to Tomisin's Code Odyssey!
+# 🚀 Welcome to Tomisin's Code Odyssey! 👋
 
-Hi, I’m Tomisin Akinfemiwa! 👋
+const **first_Name** = Tomisin 
 
-I’m a Software Engineer passionate about building impactful digital solutions with hard work and creativity.
+const **last_Name** = Akinfemiwa!
 
-**JAVASCRIPT(TYPESCRIPT), GOLANG, PYTHON** *These are my Aces*
+var **whoAmI** = `I'm a Software Engineer passionate about building impactful digital solutions with hard work and creativity.`
+
+**ACES** = **JAVASCRIPT(TYPESCRIPT), GOLANG, PYTHON**
 
 💡 Expertise:
 	•	Database Management, OOP, and API Development.
