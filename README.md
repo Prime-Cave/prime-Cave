@@ -1,8 +1,8 @@
 # 🚀 Welcome to Tomisin's Code Odyssey! 👋
 
-const **first_Name** = Tomisin 
+const **first_Name** = TOMISIN 
 
-const **last_Name** = Akinfemiwa!
+const **last_Name** = AKINFEMIWA!
 
 var **whoAmI** = `I'm a Software Engineer passionate about building impactful digital solutions with hard work and creativity.`
 
