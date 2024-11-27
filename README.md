@@ -4,6 +4,8 @@ Hi, I’m Tomisin Akinfemiwa! 👋
 
 I’m a Software Engineer passionate about building impactful digital solutions with hard work and creativity.
 
+**JAVASCRIPT(TYPESCRIPT), GOLANG, PYTHON** *These are my Aces*
+
 💡 Expertise:
 	•	Database Management, OOP, and API Development.
 	•	Proficient in Golang, Python, and JavaScript (Node.js, Vue.js, Express.js, etc.).
