@@ -10,12 +10,16 @@ var **whoAmI** = `I'm a Software Engineer passionate about building impactful di
 
 💡 Expertise:
 	•	Database Management, OOP, and API Development.
-	•	Proficient in Golang, Python, and JavaScript (Node.js, Vue.js, Express.js, etc.).
+
+	•	Proficient in Node.js, Vue.js, Express.js, etc.
+ 
 	•	Exploring Machine Learning to craft intelligent systems.
 
 🌟 Why Work with Me?
 	•	Proven success in marketing and tech projects.
+ 
 	•	Versatile: Backend, databases, and ML.
+ 
 	•	Driven to innovate and solve complex challenges.
 
 📬 Let’s Connect!
