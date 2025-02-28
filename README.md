@@ -27,7 +27,6 @@ var **whoAmI** = `I'm a Software Engineer passionate about building impactful di
 📬 Let’s Connect!
 I’m open to collaborations and new opportunities. Let’s turn ideas into reality! 🚀
 
-*This version maintains professionalism while being concise and engaging.*
 <div id="header" align="center">
    <div id="badges">
   <a href="https://www.linkedin.com/in/tomisin-akinfemiwa/">
